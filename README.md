@@ -21,3 +21,4 @@ This project fetches Pokémon data from the **PokeAPI** and displays them in a c
 - JavaScript (ES6)
 - PokeAPI (https://pokeapi.co/)
 
+## Live Demo Link:  https://vijaya-nila.github.io/pokedex/
